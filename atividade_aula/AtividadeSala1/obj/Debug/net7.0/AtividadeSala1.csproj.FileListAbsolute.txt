@@ -1,0 +1,15 @@
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/bin/Debug/net7.0/AtividadeSala1
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/bin/Debug/net7.0/AtividadeSala1.deps.json
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/bin/Debug/net7.0/AtividadeSala1.runtimeconfig.json
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/bin/Debug/net7.0/AtividadeSala1.dll
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/bin/Debug/net7.0/AtividadeSala1.pdb
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.csproj.AssemblyReference.cache
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.GeneratedMSBuildEditorConfig.editorconfig
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.AssemblyInfoInputs.cache
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.AssemblyInfo.cs
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.csproj.CoreCompileInputs.cache
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.dll
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/refint/AtividadeSala1.dll
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.pdb
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/AtividadeSala1.genruntimeconfig.cache
+/home/welvis-silva-souza/Documents/Residencia/atividade_aula/AtividadeSala1/obj/Debug/net7.0/ref/AtividadeSala1.dll

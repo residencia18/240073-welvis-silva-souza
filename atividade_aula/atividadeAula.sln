@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeSala1", "AtividadeSala1\AtividadeSala1.csproj", "{EE551ECB-3EED-4543-9172-69C1951C26DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeSala2", "AtividadeSala2\AtividadeSala2.csproj", "{AEECF122-38C1-4A11-836D-E1CA8879C270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE551ECB-3EED-4543-9172-69C1951C26DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE551ECB-3EED-4543-9172-69C1951C26DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE551ECB-3EED-4543-9172-69C1951C26DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE551ECB-3EED-4543-9172-69C1951C26DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEECF122-38C1-4A11-836D-E1CA8879C270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEECF122-38C1-4A11-836D-E1CA8879C270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEECF122-38C1-4A11-836D-E1CA8879C270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEECF122-38C1-4A11-836D-E1CA8879C270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
