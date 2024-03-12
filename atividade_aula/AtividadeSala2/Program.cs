@@ -79,7 +79,7 @@ public class Data
                 int horaFormatada = hora <= 12 ? hora : hora - 12;
                 Console.WriteLine($"{dia}/{mes}/{ano} {horaFormatada}:{minuto}:{segundo} {periodo}");
             }
-            else
+            else if (formatoHora == FORMATO_24H)
             {
                 Console.WriteLine($"{dia}/{mes}/{ano} {hora}:{minuto}:{segundo}");
             }
