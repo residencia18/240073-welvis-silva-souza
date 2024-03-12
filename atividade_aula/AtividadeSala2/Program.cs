@@ -50,8 +50,8 @@ public class Data
     private int segundo;
     private bool temHorario;
 
-    public const int FORMATO_12H = 12;
-    public const int FORMATO_24H = 24;
+    public static readonly int FORMATO_12H = 12;
+    public static readonly int FORMATO_24H = 24;
 
     public Data(int dia, int mes, int ano)
     {
