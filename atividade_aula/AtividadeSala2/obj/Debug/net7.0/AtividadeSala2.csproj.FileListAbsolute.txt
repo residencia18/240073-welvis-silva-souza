@@ -28,3 +28,17 @@
 /home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.pdb
 /home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.genruntimeconfig.cache
 /home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/ref/AtividadeSala2.dll
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/bin/Debug/net7.0/AtividadeSala2
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/bin/Debug/net7.0/AtividadeSala2.deps.json
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/bin/Debug/net7.0/AtividadeSala2.runtimeconfig.json
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/bin/Debug/net7.0/AtividadeSala2.dll
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/bin/Debug/net7.0/AtividadeSala2.pdb
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.AssemblyInfoInputs.cache
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.AssemblyInfo.cs
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.dll
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/refint/AtividadeSala2.dll
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.pdb
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/AtividadeSala2.genruntimeconfig.cache
+/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/Debug/net7.0/ref/AtividadeSala2.dll

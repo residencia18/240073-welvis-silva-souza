@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/welvis-silva-souza/.nuget/packages/": {}
+    "/Users/macbook/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala1/AtividadeSala1.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala1/AtividadeSala1.csproj",
       "projectName": "AtividadeSala1",
-      "projectPath": "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala1/AtividadeSala1.csproj",
-      "packagesPath": "/home/welvis-silva-souza/.nuget/packages/",
-      "outputPath": "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala1/obj/",
+      "projectPath": "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala1/AtividadeSala1.csproj",
+      "packagesPath": "/Users/macbook/.nuget/packages/",
+      "outputPath": "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/welvis-silva-souza/.nuget/NuGet/NuGet.Config"
+        "/Users/macbook/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

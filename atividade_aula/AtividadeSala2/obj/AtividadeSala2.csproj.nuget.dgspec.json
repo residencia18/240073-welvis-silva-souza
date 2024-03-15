@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj": {}
+    "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj": {}
   },
   "projects": {
-    "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj": {
+    "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj",
+        "projectUniqueName": "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj",
         "projectName": "AtividadeSala2",
-        "projectPath": "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj",
-        "packagesPath": "/home/welvis-silva-souza/.nuget/packages/",
-        "outputPath": "/home/welvis-silva-souza/Documents/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/",
+        "projectPath": "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/AtividadeSala2.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Documents/testedocker/240073-welvis-silva-souza/atividade_aula/AtividadeSala2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/welvis-silva-souza/.nuget/NuGet/NuGet.Config"
+          "/Users/macbook/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }
